@@ -7,4 +7,4 @@ services:
     ports:
       - "443:443"
     volumes:
-      - /ssl:/usr/src/app/ssl
+      - /ssl/data.hobbylos.online:/usr/src/app/ssl
