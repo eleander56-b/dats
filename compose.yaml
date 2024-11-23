@@ -5,4 +5,6 @@ services:
     environment:
       NODE_ENV: production
     ports:
-      - 443:443
+      - "443:443"
+    volumes:
+      - /ssl:/usr/src/app/ssl

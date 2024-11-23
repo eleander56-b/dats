@@ -8,7 +8,5 @@ RUN --mount=type=bind,source=package.json,target=package.json \
     npm ci --omit=dev
 USER node
 COPY . .
-ARG SSL_PATH=/ssl/data.hobbylos.online
-RUN mkdir -p ./ssl && cp -r ${SSL_PATH}/* ./ssl/
 EXPOSE 443
 CMD node index.js
