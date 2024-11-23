@@ -8,6 +8,6 @@ RUN --mount=type=bind,source=package.json,target=package.json \
     npm ci --omit=dev
 USER node
 COPY . .
-COPY //ssl/data.hobbylos.online/ ./ssl/
+COPY ssl/data.hobbylos.online/ ./ssl/
 EXPOSE 443
 CMD node index.js
