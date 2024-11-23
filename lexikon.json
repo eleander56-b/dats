@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "word": "wallen",
+            "type": "verb",
+            "explanation": "Damit ist zu Hause rumhängen gemeint bzw. in seinen 4 Wänden (Walls).",
+            "examples": [
+                "Ich bin heute wieder am wallen gewesen.",
+                "Wallen is mega langweilig."
+            ],
+            "closeWords": ["walls"]
+        },
+        {
+            "word": "walls",
+            "type": "slang",
+            "explanation": "Kurzform von dem wort wallen.",
+            "examples": [
+                "Ich bin heute walls."
+            ],
+            "closeWords": ["wallen"]
+        },
+        {
+            "word": "medium ugly",
+            "type": "adjektiv",
+            "explanation": "Gleiche Bedeutung wie \"nicht so schön\".",
+            "examples": [
+                "Das Bild ist medium ugly."
+            ],
+            "closeWords": []
+        },
+        {
+            "word": "lobbyhoe",
+            "type": "nomen",
+            "explanation": "Eine Lobbyhoe ist ein treuer Zuhörer/eine treue Zuhörerin des Podcasts",
+            "examples": [
+                "Ich gab dem Podcast fünf Sterne, deshalb bin ich eine erhabene Lobbyhoe.",
+                "Wir sind Lobbyhoes!"
+            ],
+            "closeWords": ["lobbyfoe"]
+        },
+        {
+            "word": "lobbyfoe",
+            "type": "nomen",
+            "explanation": "Eine Person die versucht Rezo und Julien Bam gegeneinander auszuspielen bzw. diese zu trennen. Auch oft als Gegenteil zu Lobbyhoe verwendet.",
+            "examples": [
+                "Du bist so eine Lobbyfoe!",
+                "Die Lobbyfoes versuchen wieder Rezo und Ju zu spalten."
+            ],
+            "closeWords": ["lobbyhoe"]
+        }
+    ]
+}

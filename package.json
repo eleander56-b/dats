@@ -1,0 +1,19 @@
+{
+  "name": "hobbylos-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "apollo-server-express": "^3.8.1",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0"
+  }
+}

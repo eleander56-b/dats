@@ -1,0 +1,665 @@
+{
+    "data": [
+        {
+            "folgenId": 3,
+            "startzeit": "46:35",
+            "songs": [
+                {
+                    "code": "0bk0HD6PubZKppbtvQz2H8",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "5HCyWlXZPP0y6Gqq8TgA20",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 4,
+            "startzeit": "01:03:37",
+            "songs": [
+                {
+                    "code": "5j97tfPa0kGi0ieKQRiLRf",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2gcFOhxQOqAx1OABnxvUZ4",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 5,
+            "startzeit": "00:59:01",
+            "songs": [
+                {
+                    "code": "3nKlXtgH40KItfivdWwQ1r",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "3kpYJjvM8Ja6btr5hEJLWc",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 6,
+            "startzeit": "XX:XX:XX",
+            "songs": [
+                {
+                    "code": "2t7D3y0jvYjR8IP9Bosyew",
+                    "draufgepackt":"M"
+                },
+                {
+                    "code": "3rQHGffq4FmBBykPn5YuKc",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "4VqPOruhp5EdPBeR92t6lQ",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 7,
+            "startzeit": "57:17",
+            "songs": [
+                {
+                    "code": "16PtciDusm0JSYKpF5qj3Z",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "59BhNnVBBXKhUjONX7jlrk",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 8,
+            "startzeit": "01:08:34",
+            "songs": [
+                {
+                    "code": "72SblB5UXL7II2ibIgml7G",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "7lCc8FkTlPR4jytlkVzvV3",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 9,
+            "startzeit": "44:20",
+            "songs": [
+                {
+                    "code": "5TKIutymE7YA4mTcLa9eAQ",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "72AbCBCbe5cYOLQy2nZdWA",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 10,
+            "startzeit": "57:16",
+            "songs": [
+                {
+                    "code": "2JAaVRBZRAXBzHTIMgR436",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "4htKLOmhKHEaaHlrxf0gNq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 11,
+            "startzeit": "XX:XX:XX",
+            "songs": [
+                {
+                    "code": "6ndmKwWqMozN2tcZqzCX4K",
+                    "draufgepackt":"XX"
+                },
+                {
+                    "code": "6F5c58TMEs1byxUstkzVeM",
+                    "draufgepackt":"XX"
+                }
+            ]
+        },
+        {
+            "folgenId": 12,
+            "startzeit": "01:00:09",
+            "songs": [
+                {
+                    "code": "1SVV2YIx9ouyD2WwQqBL61",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "75JFxkI2RXiU7L9VXzMkle",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 14,
+            "startzeit": "01:02:34",
+            "songs": [
+                {
+                    "code": "6Hj9jySrnFppAI0sEMCZpJ",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "5uoAmXsrFAzALf4rex5jUZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "4NZrZgrRoR4GwR7flWOXRI",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "0rKtyWc8bvkriBthvHKY8d",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 16,
+            "startzeit": "01:01:49",
+            "songs": [
+                {
+                    "code": "1P2FxMEo0bo6kug6q77RFC",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "4gFBRNM2w934WZMOINd49G",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 17,
+            "startzeit": "55:46",
+            "songs": [
+                {
+                    "code": "18KaZzrnaYryuEoOeC3rYM",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "5CERwnMo7jLTNlPSTCtllb",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 18,
+            "startzeit": "01:07:55",
+            "songs": [
+                {
+                    "code": "3VZmChrnVW8JK6ano4gSED",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "4EchqUKQ3qAQuRNKmeIpnf",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 19,
+            "startzeit": "01:02:56",
+            "songs": [
+                {
+                    "code": "0U0ldCRmgCqhVvD6ksG63j",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "5E30LdtzQTGqRvNd7l6kG5",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 20,
+            "startzeit": "01:11:38",
+            "songs": [
+                {
+                    "code": "4padmj2UW6HEd52f42qbBB",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "4EFb9FhLyFiDbYKwBwDZre",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 21,
+            "startzeit": "01:29:52",
+            "songs": [
+                {
+                    "code": "3qSK2XVRSk0hhMQHImJo51",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "3KeOFns3LGJuh1lapMm9eA",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 22,
+            "startzeit": "01:09:26",
+            "songs": [
+                {
+                    "code": "0boS4e6uXwp3zAvz1mLxZS",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2FQRZLR31e3423Nmrgv0Pv",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 23,
+            "startzeit": "01:08:49",
+            "songs": [
+                {
+                    "code": "66n8tQ7bFeNRrDXG5sGS7x",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "648neYyz7wziy2RWuXeaiu",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 24,
+            "startzeit": "01:16:35",
+            "songs": [
+                {
+                    "code": "51hVRQifMP6k0jJUzDbcpz",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2v7iJcMoQcN40fK9XEb42q",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 25,
+            "startzeit": "01:08:20",
+            "songs": [
+                {
+                    "code": "1uMHCAyGmHqyygoNRuo7MV",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2mdsmcQiVTsX6NiPt52Elm",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 26,
+            "startzeit": "01:10:17",
+            "songs": [
+                {
+                    "code": "33FrM0i2g7uosARZ4aCFk1",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "04S1pkp1VaIqjg8zZqknR5",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 27,
+            "startzeit": "58:32",
+            "songs": [
+                {
+                    "code": "5jbDih9bLGmI8ycUKkN5XA",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "6hIr2IDeBDXfRFk0rYe5Tz",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 28,
+            "startzeit": "01:00:44",
+            "songs": [
+                {
+                    "code": "20on25jryn53hWghthWWW3",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "6GQ3WTaNHMFlVmN4burGat",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "62P3CMQAknHW4iftsBD41Y",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 29,
+            "startzeit": "01:04:55",
+            "songs": [
+                {
+                    "code": "2xFMvrqk99biaLQavjufta",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1jlG3KJ3gdYmhfuySFfpO1",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 30,
+            "startzeit": "01:01:52",
+            "songs": [
+                {
+                    "code": "2KWOx2nE8h3LtL7ON466n7",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "6M47gaKejso9772SKTa3yH",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 31,
+            "startzeit": "01:04:14",
+            "songs": [
+                {
+                    "code": "6Uj1ctrBOjOas8xZXGqKk4",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "6nk35yBRz3OQkLaPrtVOB1",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 32,
+            "startzeit": "01:06:39",
+            "songs": [
+                {
+                    "code": "7EtfwHVS8FcciOBU1VnT8G",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "7vrKEP66NdiQDPryPG6olO",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 33,
+            "startzeit": "01:54:41",
+            "songs": [
+                {
+                    "code": "0iVkWge9ytV4Scgy2hQ2za",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "6yABMG87YRClAt3Clxscua",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 34,
+            "startzeit": "01:00:44",
+            "songs": [
+                {
+                    "code": "4lpvCG7eNzHAXwvMxWUNjz",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "4gHnSNHs8RyVukKoWdS99f",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 35,
+            "startzeit": "01:12:06",
+            "songs": [
+                {
+                    "code": "60ynsPSSKe6O3sfwRnIBRf",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "1VsuSOEVhuCaybeb1rFeCM",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 36,
+            "startzeit": "01:05:27",
+            "songs": [
+                {
+                    "code": "2lHn9lFiSlSJF3s3n88d8D",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1ZdhOMWyFR8Iv9eylMGYg2",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 37,
+            "startzeit": "01:00:45",
+            "songs": [
+                {
+                    "code": "1W1N3usYjgI3XGQA0iX9Vq",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "5FZxsHWIvUsmSK1IAvm2pp",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 38,
+            "startzeit": "01:15:34",
+            "songs": [
+                {
+                    "code": "3RZmvxJ0QtbZILdFLdwWX8",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "5FwK2EZJUy6uHEzENJtHQ5",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 39,
+            "startzeit": "01:10:22",
+            "songs": [
+                {
+                    "code": "5uu0D02efCoFMQiLYFT32e",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "0oA9wBGDY4uyILLg4GymWP",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 40,
+            "startzeit": "01:06:35",
+            "songs": [
+                {
+                    "code": "30pC7KFZ1x8RC0LCvYNJX2",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1ibeKVCiXORhvUpMmtsQWq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 41,
+            "startzeit": "58:18",
+            "songs": [
+                {
+                    "code": "1chzx4gX3jVJOScCjgQGL4",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "3yn9PEZHXqSh188kQ4vaMQ",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 42,
+            "startzeit": "53:20",
+            "songs": [
+                {
+                    "code": "6icjOrzM57QrCAtBeWB5WF",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1jJci4qxiYcOHhQR247rEU",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "22wKQbMH8n7wZfso2VcLJL",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 43,
+            "startzeit": "01:04:09",
+            "songs": [
+                {
+                    "code": "047OpPzzcJgW88cTOKv2QY",
+                    "draufgepackt":"R"
+                },
+                {
+                    "code": "7jley98gCQFueQ5MCaFWIb",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 44,
+            "startzeit": "01:08:02",
+            "songs": [
+                {
+                    "code": "1LRi0Km3V44DeCiwfRNr5l",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 45,
+            "startzeit": "01:05:44",
+            "songs": [
+                {
+                    "code": "7sxn16XyaEr1K8WxYrfJ2I",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "3a0F2N6rXJSibQTp77xH4f",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 46,
+            "startzeit": "01:15:48",
+            "songs": [
+                {
+                    "code": "2uQ30aq82tR0xeZskWjTgN",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2DgdHcjWmO3qd50RzuBLgZ",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 47,
+            "startzeit": "01:00:55",
+            "songs": [
+                {
+                    "code": "6kex4EBAj0WHXDKZMEJaaF",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1pHPpLVH2XEN0xYRoQs4wq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 48,
+            "startzeit": "01:12:09",
+            "songs": [
+                {
+                    "code": "4UDmDIqJIbrW0hMBQMFOsM",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "75FEaRjZTKLhTrFGsfMUXR",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 49,
+            "startzeit": "01:13:38",
+            "songs": [
+                {
+                    "code": "6xGruZOHLs39ZbVccQTuPZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "1fJFuvU2ldmeAm5nFIHcPP",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 57,
+            "startzeit": "01:03:38",
+            "songs": [
+                {
+                    "code": "6z6j7CedStrvf2ZmF5uWJZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "code": "2iXdwVdzA0KrI2Q0iZNJbX",
+                    "draufgepackt":"R"
+                }
+            ]
+        }
+    ]
+}
+  
